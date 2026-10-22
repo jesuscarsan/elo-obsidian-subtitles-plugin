@@ -1,11 +1,11 @@
 {
-    "id": "elo-obsidian-subtitles-plugin",
-    "name": "Elocuency Subtitles",
-    "version": "1.0.0",
-    "description": "Download subtitles from OpenSubtitles for your notes.",
-    "main": "dist/main.js",
-    "minAppVersion": "1.5.0",
-    "author": "Joshua",
-    "authorUrl": "",
-    "isDesktopOnly": false
+  "id": "elo-obsidian-subtitles-plugin",
+  "name": "Elocuency Subtitles",
+  "version": "1.0.1",
+  "description": "Download subtitles from OpenSubtitles for your notes.",
+  "main": "dist/main.js",
+  "minAppVersion": "1.5.0",
+  "author": "Joshua",
+  "authorUrl": "",
+  "isDesktopOnly": false
 }
